@@ -1,5 +1,5 @@
 -- ===============================================================================
--- ** PROJECT 3:
+-- ** PROJECT:
 -- ** CONVERT QueensClassScheduleSpring2019 data into an ERD design.
 -- **
 -- ** PHILLIP MA
